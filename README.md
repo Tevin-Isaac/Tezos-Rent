@@ -1,4 +1,4 @@
-This smart contract was built with SmartPy a pyhon library.
+This smart contract was built with SmartPy a python library.
 
 The smart contract has various functions that include:
 
